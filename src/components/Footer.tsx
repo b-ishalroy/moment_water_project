@@ -67,10 +67,10 @@ export default function Footer() {
             href="https://wa.me/919366081439"
             target="_blank"
             rel="noreferrer"
-            className="w-10 h-10 rounded-full bg-[#141414] border border-white/10 hover:border-[#A5F3FC]/40 text-white/60 hover:text-[#A5F3FC] flex items-center justify-center shadow-inner transition-all hover:scale-105 cursor-pointer"
+            className="w-10 h-10 rounded-full bg-[#141414] border border-white/10 hover:border-[#25D366]/40 text-[#25D366] hover:text-[#25D366] flex items-center justify-center shadow-inner transition-all hover:scale-105 cursor-pointer"
             title="Chat directly on WhatsApp"
           >
-            <MessageCircle className="w-4.5 h-4.5 fill-current text-transparent hover:fill-[#A5F3FC]/10" />
+            <MessageCircle className="w-4.5 h-4.5 fill-[#25D366]/10" />
           </a>
 
         </div>
