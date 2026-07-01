@@ -98,7 +98,7 @@ export default function Header() {
               <Instagram className="w-5 h-5" />
             </a>
             <a
-              href="https://wa.me/917003222633"
+              href="https://wa.me/919366081439"
               target="_blank"
               rel="noreferrer"
               className="bg-gradient-to-r from-[#FDE68A] to-[#F472B6] text-black font-bold text-[11px] uppercase tracking-wider px-5 py-2.5 rounded-full flex items-center gap-2 hover:opacity-90 shadow-md transition-all transform hover:-translate-y-0.5"
@@ -151,13 +151,13 @@ export default function Header() {
             {/* Mobile Footer CTAs */}
             <div className="relative z-10 space-y-4">
               <a
-                href="https://wa.me/917003222633"
+                href="https://wa.me/919366081439"
                 target="_blank"
                 rel="noreferrer"
                 className="w-full bg-[#141414] hover:bg-white/5 border border-white/10 text-white font-medium py-3.5 px-6 rounded-full flex items-center justify-center gap-2.5 text-sm uppercase tracking-wider text-center"
               >
                 <MessageCircle className="w-5 h-5 fill-white text-transparent" />
-                <span>Chat on WhatsApp (+91 70032 22633)</span>
+                <span>Chat on WhatsApp (+91 93660 81439)</span>
               </a>
 
               <a

@@ -84,7 +84,7 @@ export default function ContactForm({ customizerData }: ContactFormProps) {
 _Sent from Moment Water Customizer Web App_`;
 
     const encodedText = encodeURIComponent(text);
-    const whatsappUrl = `https://wa.me/917003222633?text=${encodedText}`;
+    const whatsappUrl = `https://wa.me/919366081439?text=${encodedText}`;
 
     // Mock quick client feedback, then redirect
     setTimeout(() => {
@@ -126,7 +126,7 @@ _Sent from Moment Water Customizer Web App_`;
                 </div>
                 <div>
                   <h4 className="text-[10px] font-mono text-white/40 uppercase tracking-widest leading-none">WhatsApp Call/Chat</h4>
-                  <p className="text-sm font-serif font-semibold text-white mt-1">+91 70032 22633</p>
+                  <a href="tel:+919366081439" className="text-sm font-serif font-semibold text-white hover:text-[#F472B6] transition-colors mt-1 block">+91 93660 81439</a>
                   <span className="text-[10px] text-emerald-400 font-mono">Active 24/7 • Instant Response</span>
                 </div>
               </div>
@@ -201,7 +201,7 @@ _Sent from Moment Water Customizer Web App_`;
                       name="phone"
                       value={formData.phone}
                       onChange={handleInputChange}
-                      placeholder="e.g. 70032 22633"
+                      placeholder="e.g. 93660 81439"
                       className="w-full bg-[#0A0A0A] border border-white/10 rounded-xl px-4 py-3 text-white text-sm focus:outline-none focus:border-[#F472B6]/50 transition-all font-mono"
                     />
                   </div>

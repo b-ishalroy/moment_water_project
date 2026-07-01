@@ -138,7 +138,7 @@ export default function Hero() {
           {/* Action CTAs (Large touch targets for 99% mobile usage) */}
           <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
             <a
-              href="https://wa.me/917003222633"
+              href="https://wa.me/919366081439"
               target="_blank"
               rel="noreferrer"
               className="bg-gradient-to-r from-[#FDE68A] to-[#F472B6] text-black font-bold py-4 px-8 rounded-full flex items-center justify-center gap-3 shadow-lg shadow-pink-950/20 text-xs uppercase tracking-wider transition-all transform hover:-translate-y-0.5 active:translate-y-0"

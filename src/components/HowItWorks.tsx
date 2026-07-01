@@ -114,7 +114,7 @@ export default function HowItWorks() {
             </p>
           </div>
           <a
-            href="https://wa.me/917003222633?text=Hi%20Moment%20Water!%20I%20would%20love%20to%20get%20a%20free%20design%20preview%20draft%20for%20my%20event."
+            href="https://wa.me/919366081439?text=Hi%20Moment%20Water!%20I%20would%20love%20to%20get%20a%20free%20design%20preview%20draft%20for%20my%20event."
             target="_blank"
             rel="noreferrer"
             className="whitespace-nowrap bg-[#0A0A0A] hover:bg-white/5 text-[#F472B6] border border-[#F472B6]/25 font-semibold text-xs px-6 py-3.5 rounded-full uppercase tracking-wider transition-all shadow-inner relative z-10 cursor-pointer text-center"

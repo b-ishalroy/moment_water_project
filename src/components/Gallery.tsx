@@ -223,7 +223,7 @@ export default function Gallery() {
 
                   <div className="flex flex-col gap-3">
                     <a
-                      href={`https://wa.me/917003222633?text=Hi%20Moment%20Water!%20I%20am%20interested%20in%20creating%20bottles%20styled%20like%20your%20project%20"${encodeURIComponent(selectedItem.title)}"%20for%20my%20upcoming%20event.`}
+                      href={`https://wa.me/919366081439?text=Hi%20Moment%20Water!%20I%20am%20interested%20in%20creating%20bottles%20styled%20like%20your%20project%20"${encodeURIComponent(selectedItem.title)}"%20for%20my%20upcoming%20event.`}
                       target="_blank"
                       rel="noreferrer"
                       className="w-full bg-[#141414] hover:bg-white/5 border border-white/10 text-white py-3.5 rounded-full flex items-center justify-center gap-2 text-xs uppercase tracking-wider font-semibold cursor-pointer text-center"
