@@ -1,0 +1,6 @@
+{
+  "name": "Moment Water",
+  "description": "Premium customized water bottle studio based in Tripura. Personalize labels with custom names, photos, and luxury themes for weddings, birthdays, resorts, fests, and pranks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
